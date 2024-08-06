@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34902.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FactoryPattern", "FactoryPattern\FactoryPattern.pyproj", "{906BB1BA-06D9-40B3-A62B-45CA511636CA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AbstractFactoryPattern", "..\AbstractFactoryPattern\AbstractFactoryPattern\AbstractFactoryPattern.pyproj", "{7115B1E5-3B8C-422C-9734-C7948FFDA13F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{906BB1BA-06D9-40B3-A62B-45CA511636CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906BB1BA-06D9-40B3-A62B-45CA511636CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7115B1E5-3B8C-422C-9734-C7948FFDA13F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7115B1E5-3B8C-422C-9734-C7948FFDA13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91AD3D58-5B5E-4A22-A09E-303722D5FDCA}
+	EndGlobalSection
+EndGlobal
